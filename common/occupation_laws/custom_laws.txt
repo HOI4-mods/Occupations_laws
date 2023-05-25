@@ -1,0 +1,66 @@
+
+factories_for_workers_lands_for_peasants = {
+	icon = 5
+	sound_effect = "Martial_Law_Interface_Liberate_Workers_Occupation_Unique_COM"
+    tooltip = "factories_for_workers_lands_for_peasants_tooltip"
+
+	visible = {
+		has_government = communism
+	}
+
+	state_modifier = {
+		compliance_gain 				= 0.03
+		required_garrison_factor 		= -0.60
+        resistance_damage_to_garrison 	= -0.25
+		local_factories 				= -0.3
+		local_resources 				= -0.1
+	}
+
+	ai_will_do = {
+		base = 0
+	}
+}
+
+collaborate_with_local_elite = {
+	icon = 2
+	sound_effect = "Martial_Law_Interface_Autonomous_Occupation_Unique_DEM"
+    tooltip = "collaborate_with_local_elite_tooltip"
+
+	visible = {
+		has_government = neutrality
+	}
+
+	state_modifier = {
+		compliance_gain 				= 0.03
+		required_garrison_factor 		= -0.60
+        resistance_damage_to_garrison 	= -0.25
+		local_factories 				= -0.2
+		local_resources 				= -0.2
+	}
+
+	ai_will_do = {
+		base = 0
+	}
+}
+
+total_propaganda = {
+	icon = 2
+	sound_effect = "Martial_Law_Interface_Autonomous_Occupation_Unique_DEM"
+    tooltip = "total_propaganda_tooltip"
+
+	visible = {
+		has_government = fascism
+	}
+
+	state_modifier = {
+		compliance_gain 				= 0.03
+		required_garrison_factor 		= -0.60
+        resistance_damage_to_garrison 	= -0.25
+		local_factories 				= -0.1
+		local_resources 				= -0.3
+	}
+
+	ai_will_do = {
+		base = 0
+	}
+}
