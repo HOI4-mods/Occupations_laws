@@ -18,6 +18,12 @@ factories_for_workers_lands_for_peasants = {
 
 	ai_will_do = {
 		base = 0
+
+		modifier = {
+			compliance < 70
+			
+			add = 700
+		}
 	}
 }
 
@@ -40,6 +46,12 @@ collaborate_with_local_elite = {
 
 	ai_will_do = {
 		base = 0
+
+		modifier = {
+			compliance < 70
+			
+			add = 700
+		}
 	}
 }
 
@@ -62,5 +74,11 @@ total_propaganda = {
 
 	ai_will_do = {
 		base = 0
+
+		modifier = {
+			compliance < 70
+			
+			add = 700
+		}
 	}
 }

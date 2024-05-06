@@ -1,8 +1,7 @@
 ﻿l_english: 
- total_propaganda: "Total proganda"
- total_propaganda_tooltip: "Total proganda"
- collaborate_with_local_elite: "Collaborate with local elite"
- collaborate_with_local_elite_tooltip: "Collaborate with local elite"
- factories_for_workers_lands_for_peasants: "Factories for workers! Lands for peasants"
- factories_for_workers_lands_for_peasants_tooltip: "Factories for workers! Lands for peasants"
- 
+  total_propaganda: "Total Propaganda"
+  total_propaganda_tooltip: "Let's turn the propaganda machine up to full throttle. \nWe won't spare any resources to praise the new regime from every angle: newspapers, radio, books, leaflets dropped by the millions. \nIf people don't have radios, we'll make them; if people don't have newspapers, we'll create them. \nFree soup for the hungry, jobs in factories for the unemployed, new homes for the homeless, but only on one condition: support the new regime!"
+  collaborate_with_local_elite: "Collaborate with the Local Elite"
+  collaborate_with_local_elite_tooltip: "Under the guidance of our wise leader, we are entering an era of order and stability. To ensure the nation's prosperity, it is necessary to obey the laws and maintain unity.\n Those attempting to disrupt the established order will be severely punished.\n Only with a strong and united leader can we achieve greatness and prosperity. Follow our guidance, and we will provide you with protection and prosperity."
+  factories_for_workers_lands_for_peasants: "Factories for Workers, Lands for Peasants"
+  factories_for_workers_lands_for_peasants_tooltip: "Factories for workers, land for peasants - this is the foundation of our communist ideology. \nWe strive to create a society where the means of production belong to the people, and wealth is distributed fairly. By supporting us, you support equality and solidarity. \nOnly together can we build a paradise on earth, where every person will have everything necessary for happiness and dignity."
